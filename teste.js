@@ -1,5 +1,2 @@
-let boasvindas = 'Hello World'
+// --> Tipos de declarações de variaveis aceitas no javascript. 
 
-console.log(boasvindas)
-
-console.log(typeof true)
