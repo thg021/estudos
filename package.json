@@ -1,0 +1,8 @@
+{
+  "name": "estudos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thg021/estudos.git",
+  "author": "Thiago Silva <thiago.silva@hotmail.com>",
+  "license": "MIT"
+}
